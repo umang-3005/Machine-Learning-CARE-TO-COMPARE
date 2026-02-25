@@ -164,14 +164,5 @@ python src/unsupervised_model.py
 
 ------------------------------------------------------------------------
 
-# Author
-
-Umang Dholakiya\
-M.Sc. Artificial Intelligence\
-Ostbayerische Technische Hochschule Amberg-Weiden
-
-Supervisor: Prof. Dr. Patrick Levi
-
-------------------------------------------------------------------------
 
 Full technical details are available in ML_REPORT_Umang.pdf.
